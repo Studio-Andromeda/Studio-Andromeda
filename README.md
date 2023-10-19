@@ -1,16 +1,15 @@
-### Hi there 👋
+✨ Hello people ✨
 
-<!--
-**Studio-Andromeda/Studio-Andromeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+We are **Studio Andromeda**. 
 
-Here are some ideas to get you started:
+A **Vocal Synth** production team made of all **Black volunteers**. The aim of our studio is to bring more **Black representation** into the world of Vocal Synth via **UTAU**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Starting with The **A.E.G.I.S. Project**, five new **English** and **Japanese** voicebanks in the RnB, Ballad and Rock genres !
+If you want to be a part of our project, we are looking for **black voicers** on [Casting Club Call](https://www.castingcall.club/projects/test-f15e063b-2460-41b9-8745-4c5eb82f4e11) 🎧
+
+Stay tuned !
+
+- **Youtube** : https://www.youtube.com/channel/UCGvVukEboAYa9D0ENkM2hPA
+- **Soundcloud** : https://soundcloud.com/studio_andromeda_1
+- **Twitter** : comming soon
+- **TikTok** : coming soon
